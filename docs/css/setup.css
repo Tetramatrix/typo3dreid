@@ -1,0 +1,140 @@
+body {
+margin-left: 0px;
+margin-top: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+background-color: #ffffff;						
+background: url(../gfx/bg_moore-silver.png);
+}
+
+h1,h2,h3,h4,p,ul,ol,li,div,td,th,address,blockquote,nobr,b,i,select {
+	font-family:		Tahoma,sans-serif;
+	font-style:		plain;
+	font-size:		12px;
+	color:			black;
+    }
+
+#titel  {
+	font-family:	Tahoma, sans-serif;
+	font-style:		normal;
+	font-size:		50px;
+	color:			#000000;
+		vertical-align: top;
+    }
+
+#titel_sub  {
+	font-family:	Tahoma,sans-serif;
+	font-style:		plain;
+	font-size:		25px;
+	color:		
+
+#titel_text  {
+	font-family:	Tahoma, sans-serif;
+	font-style:		normal;
+	font-size:		12px;
+	color:			black;
+	text-align: left;
+    }
+
+#unterstrichen {
+	text-decoration: underline;
+     }
+
+#fussnote {
+	font-family:		Tahoma, sans-serif;
+	font-style:		normal;
+	font-size:		10px;
+	color:			#FFFFFF;
+	text-align: right;
+	right: 0px;
+	padding-right: 5px;
+
+
+
+}
+    a       { text-decoration: none; color: black;}
+    a:hover { text-decoration: underline; }
+    a.nav       { text-decoration: none; color: black}
+    a.nav:hover { text-decoration: underline; }
+    a.hinw       { text-decoration: none; color: black}
+    a.hinw:hover { text-decoration: underline; }
+    b.hinw { font-size: 11px; }
+
+#logo_abstand {
+	padding: 15px 15px 5px;
+}
+
+#linksrechts {
+	border-left-style:solid;
+	border-left-color:black;
+	border-left-width:1px;
+	border-right-style:solid;
+	border-right-color:black;
+	border-right-width:1px;
+	padding: 15px;
+}
+
+#linksrechtsoben {
+	border-left-style:solid;
+	border-left-color:black;
+	border-left-width:1px;
+	border-right-style:solid;
+	border-right-color:black;
+	border-right-width:1px;
+	border-top-style:solid;
+	border-top-color:black;
+	border-top-width:1px;
+	padding: 15px;
+
+
+}
+
+#linksrechtsunten {
+
+	padding:15px; 
+
+	border-left-style:solid;
+	border-left-color:black;
+    border-left-width:1px;     /* nur links */
+
+	border-right-style:solid;
+	border-right-color:black;
+	border-right-width:1px;    /* nur rechts */
+
+	border-bottom-style:solid;
+	border-bottom-color:black;
+	border-bottom-width:1px;   /* nur unten */
+
+}
+
+#rundherum {
+	padding:5px;
+	border-top: 1px solid black;
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+	border-left: 1px solid black;
+}
+
+#linksunten {
+
+	padding:15px; 
+
+	border-left-style:solid;
+	border-left-color:black;
+    border-left-width:1px;     /* nur links */
+
+	border-bottom-style:solid;
+	border-bottom-color:black;
+	border-bottom-width:1px;   /* nur unten */
+}
+
+
+#links{
+
+	padding:15px; 
+	border-left-style:solid;
+	border-left-color:black;
+    border-left-width:1px;     /* nur links */
+
+}
+
