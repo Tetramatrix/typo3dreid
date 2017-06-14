@@ -52,15 +52,15 @@ var Sin = new Array(360);for(i=0;i<360;i++)Sin[i]=Math.sin(i*3.1415927/180);
 var Cos = new Array(360);for(i=0;i<360;i++)Cos[i]=Math.cos(i*3.1415927/180);
 
 var Sprite = new Array(9);
-Sprite[0] = new Image(); Sprite[0].src="gfx/ballrot.gif";
-Sprite[1] = new Image(); Sprite[1].src="gfx/ballblau.gif";
-Sprite[2] = new Image(); Sprite[2].src="gfx/ballgruen.gif";
-Sprite[3] = new Image(); Sprite[3].src="gfx/ballgelb.gif";
-Sprite[4] = new Image(); Sprite[4].src="gfx/ballora.gif";
-Sprite[5] = new Image(); Sprite[5].src="gfx/balltuerk.gif";
-Sprite[6] = new Image(); Sprite[6].src="gfx/ballmag.gif";
-Sprite[7] = new Image(); Sprite[7].src="gfx/ballcya.gif";
-Sprite[8] = new Image(); Sprite[8].src="gfx/ballgruen.gif";
+Sprite[0] = new Image(); Sprite[0].src="https://github.com/Tetramatrix/typo3dreid/raw/master/docs/gfx/ballrot.gif";
+Sprite[1] = new Image(); Sprite[1].src="https://github.com/Tetramatrix/typo3dreid/raw/master/docs/gfx/ballblau.gif";
+Sprite[2] = new Image(); Sprite[2].src="https://github.com/Tetramatrix/typo3dreid/raw/master/docs/gfx/ballgruen.gif";
+Sprite[3] = new Image(); Sprite[3].src="https://github.com/Tetramatrix/typo3dreid/raw/master/docs/gfx/ballgelb.gif";
+Sprite[4] = new Image(); Sprite[4].src="https://github.com/Tetramatrix/typo3dreid/raw/master/docs/gfx/ballora.gif";
+Sprite[5] = new Image(); Sprite[5].src="https://github.com/Tetramatrix/typo3dreid/raw/master/docs/gfx/balltuerk.gif";
+Sprite[6] = new Image(); Sprite[6].src="https://github.com/Tetramatrix/typo3dreid/raw/master/docs/gfx/ballmag.gif";
+Sprite[7] = new Image(); Sprite[7].src="https://github.com/Tetramatrix/typo3dreid/raw/master/docs/gfx/ballcya.gif";
+Sprite[8] = new Image(); Sprite[8].src="https://github.com/Tetramatrix/typo3dreid/raw/master/docs/gfx/ballgruen.gif";
 
 var temp;
 temp=Math.round(Math.random()*8);
